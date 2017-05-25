@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9E9BD594-2E23-4D26-8913-067C6D6690B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="data.xml">
+    <Files>
+      <File FileName="data.xml" Line="2" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APP__EM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
